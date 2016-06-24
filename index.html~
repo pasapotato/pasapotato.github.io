@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="main.css"/>
 <title>Jellybean Dogs</title>
-
+<link rel="icon" href="favicon.ico">
 </head>
 <body>
       <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/114588904/?autostart=false" frameborder="0" allowfullscreen></iframe>
